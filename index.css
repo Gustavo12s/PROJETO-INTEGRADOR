@@ -1,0 +1,50 @@
+.logo {
+    width: 200px;
+    height: 120px;
+}
+
+header {
+    background-color: rgb(37, 110, 220);
+    max-height: 90px;
+}
+
+#titulo {
+    font-size: 75px;
+}
+
+#morto {
+    width: 100%;
+}
+
+#principal {
+    border-style: solid;
+    border-width: 0px;
+    margin: 10px 325px 10px;
+    font-size: 20px;
+}
+
+#principal > img {
+    width: 100%;
+}
+
+.subtitulo {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.titulinho {
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.titulo {
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer {
+    background-color: rgb(37, 110, 220);
+}
