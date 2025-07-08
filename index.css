@@ -5,12 +5,11 @@ body {
 
 .logo {
     width: 200px;
-    height: 120px;
 }
 
 header {
     background-color: rgb(24, 76, 155);
-    max-height: 90px;
+    height: 107px;
 }
 
 #titulo {
